@@ -10,6 +10,6 @@ const layout = ( props ) => (
             {props.children}
         </main>
     </Aux>
-); 
+);
 
 export default layout;
